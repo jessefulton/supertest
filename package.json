@@ -7,7 +7,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "superagent": "git://github.com/tadeuszwojcik/superagent.git#master",
+    "superagent": "git://github.com/tadeuszwojcik/superagent.git#9742f24aa35a4b4942fde34a60076578a11aff32",
     "methods": "0.1.0"
   },
   "devDependencies": {
