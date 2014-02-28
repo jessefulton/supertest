@@ -7,7 +7,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "superagent": "git://github.com/visionmedia/superagent.git#master",
+    "superagent": "git://github.com/visionmedia/superagent.git#4492bf471e63269c2bbf2ef0930674d98a898ece",
     "methods": "0.1.0"
   },
   "devDependencies": {
